@@ -1,0 +1,2 @@
+Se debe extraer las palabras de un texto, y comparar la letra ingresada por el usuario con la primer letra de cada palabra. Si es la misma guardarla e imprimirlas todas. 
+No importa si es mayuscula o minuscula.
